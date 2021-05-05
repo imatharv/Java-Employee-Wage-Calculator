@@ -2,7 +2,7 @@ public class EmployeeWage {
 	public static void main(String[] args) {
 
 		int isPartTime = 1;
-   		int isFullTime = 2;
+		int isFullTime = 2;
 		int empRatePerHour = 20;
 		int empHours = 0;
 		int empWage = 0;
@@ -19,7 +19,7 @@ public class EmployeeWage {
 			empHours = 4;
 			empWage = empHours * empRatePerHour;
 			System.out.println("Employee's wage = " + empWage);
-      	} else {
+		} else {
 			System.out.println("Employee is abscent");
 			empHours = 0;
 			empWage = empHours * empRatePerHour;
