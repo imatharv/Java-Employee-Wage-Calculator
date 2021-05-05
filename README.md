@@ -22,3 +22,22 @@ Every branch contains step wise code. And the master branch is same as of the la
 - [Use Case 4](https://github.com/imatharv/Java-Employee-Wage-Calculator/tree/Use-case-4 "Solving using switch case statement") Solving using switch case statement
 - [Use Case 5](https://github.com/imatharv/Java-Employee-Wage-Calculator/tree/Use-case-5 "Calculating wages for a month") Calculating wages for a month
 - [Use Case 6](https://github.com/imatharv/Java-Employee-Wage-Calculator/tree/Use-case-6 "Calculating wages till a condition is reached") Calculating wages till a condition is reached
+
+<br />
+
+### Languages and Tools:
+
+<img align="left" alt="HTML" width="25px"  style="margin:6px 0px; box-shadow: 0rem .15rem .5rem rgba(0,0,0,.1);" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRiHfsdHKJSiDEG8DK9IrdDGrdA-RwYqTYAuY9WuNJodRKOxngRHQI2fxLfnDRCpsm52o&usqp=CAU" />
+
+<img align="left" alt="CSS" width="25px"  style="margin:6px  15px; box-shadow: 0rem .15rem .5rem rgba(0,0,0,.1);" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />
+
+<img align="left" alt="JavaScript" width="25px"  style="margin:6px 0px; box-shadow: 0rem .15rem .5rem rgba(0,0,0,.1);" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" />
+
+<img align="left" alt="Visual studio code" width="25px" style="margin:6px 12px; box-shadow: 0rem .15rem .5rem rgba(0,0,0,.1);" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" />
+
+<br />
+<br />
+<br />
+
+[instagram]: https://instagram.com/the.jpeg.creator/
+[linkedin]: https://linkedin.com/in/atharva-a-joshi/
