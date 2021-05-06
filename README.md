@@ -16,13 +16,13 @@ Every branch contains step wise code. And the master branch is same as of the la
 
 ### Branching details,
 
-- [Use Case 1](https://github.com/imatharv/Java-Employee-Wage-Calculator/tree/Use-case-1 "Check employee is present or abscent") Check employee is present or abscent"
-- [Use Case 2](https://github.com/imatharv/Java-Employee-Wage-Calculator/tree/Use-case-2 "Calculate daily employee wage") Calculate daily employee wage"
-- [Use Case 3](https://github.com/imatharv/Java-Employee-Wage-Calculator/tree/Use-case-3 "Add part-time employee wage") Add part-time employee wage"
-- [Use Case 4](https://github.com/imatharv/Java-Employee-Wage-Calculator/tree/Use-case-4 "Solving using switch case statement") Solving using switch case statement"
-- [Use Case 5](https://github.com/imatharv/Java-Employee-Wage-Calculator/tree/Use-case-5 "Calculating wages for a month") Calculating wages for a month"
-- [Use Case 6](https://github.com/imatharv/Java-Employee-Wage-Calculator/tree/Use-case-6 "Calculating wages till a condition is reached") Calculating wages till a condition is reached"
-- [Use Case 7](https://github.com/imatharv/Java-Employee-Wage-Calculator/tree/Use-case-7 "Refactoring the code using class and method"
+- [Use Case 1](https://github.com/imatharv/Java-Employee-Wage-Calculator/tree/Use-case-1 "Check employee is present or abscent") Check employee is present or abscent
+- [Use Case 2](https://github.com/imatharv/Java-Employee-Wage-Calculator/tree/Use-case-2 "Calculate daily employee wage") Calculate daily employee wage
+- [Use Case 3](https://github.com/imatharv/Java-Employee-Wage-Calculator/tree/Use-case-3 "Add part-time employee wage") Add part-time employee wage
+- [Use Case 4](https://github.com/imatharv/Java-Employee-Wage-Calculator/tree/Use-case-4 "Solving using switch case statement") Solving using switch case statement
+- [Use Case 5](https://github.com/imatharv/Java-Employee-Wage-Calculator/tree/Use-case-5 "Calculating wages for a month") Calculating wages for a month
+- [Use Case 6](https://github.com/imatharv/Java-Employee-Wage-Calculator/tree/Use-case-6 "Calculating wages till a condition is reached") Calculating wages till a condition is reached
+- [Use Case 7](https://github.com/imatharv/Java-Employee-Wage-Calculator/tree/Use-case-7 "Refactoring the code using class and method") Refactoring the code using class and method
 
 <br />
 
