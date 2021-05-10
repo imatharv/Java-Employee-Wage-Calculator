@@ -23,6 +23,7 @@ Every branch contains step wise code. And the master branch is same as of the la
 - [Use Case 5](https://github.com/imatharv/Java-Employee-Wage-Calculator/tree/Use-case-5 "Calculating wages for a month") Calculating wages for a month
 - [Use Case 6](https://github.com/imatharv/Java-Employee-Wage-Calculator/tree/Use-case-6 "Calculating wages till a condition is reached") Calculating wages till a condition is reached
 - [Use Case 7](https://github.com/imatharv/Java-Employee-Wage-Calculator/tree/Use-case-7 "Refactoring the code using class and method") Refactoring the code using class and method
+- [Use Case 8](https://github.com/imatharv/Java-Employee-Wage-Calculator/tree/Use-case-8 "Calculating employee wage for multiple companies") Calculating employee wage for multiple companies
 
 <br />
 
